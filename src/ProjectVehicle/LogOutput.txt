@@ -1,0 +1,32 @@
+Mon Feb 26 21:06:32 GMT 2018
+KK16 DNE
+Vehicle make and colour from file MATCH with the details in the DVLA webpage for file File1.csv
+Finally in DoMethod in SeleniumCallWebPage 
+ML56OSY
+Vehicle make and colour from file MATCH with the details in the DVLA webpage for file File10.csv
+Finally in DoMethod in SeleniumCallWebPage 
+LB11 FSZ
+Vehicle make and colour from file MATCH with the details in the DVLA webpage for file File2.csv
+Finally in DoMethod in SeleniumCallWebPage 
+KM14 PSO
+Vehicle make and colour from file MATCH with the details in the DVLA webpage for file File3.csv
+Finally in DoMethod in SeleniumCallWebPage 
+EX14 UKE
+Vehicle make and colour from file MATCH with the details in the DVLA webpage for file File4.csv
+Finally in DoMethod in SeleniumCallWebPage 
+EK10 JVJ
+Vehicle make and colour from file MATCH with the details in the DVLA webpage for file File5.csv
+Finally in DoMethod in SeleniumCallWebPage 
+BOX 3R
+Vehicle make and colour from file ***DOES NOT MATCH*** with the details in the DVLA webpagefor file File6.csv
+Finally in DoMethod in SeleniumCallWebPage 
+LMA477Y
+Vehicle make and colour from file MATCH with the details in the DVLA webpage for file File7.csv
+Finally in DoMethod in SeleniumCallWebPage 
+GV62OKX
+Vehicle make and colour from file MATCH with the details in the DVLA webpage for file File8.csv
+Finally in DoMethod in SeleniumCallWebPage 
+KR07VSX
+Vehicle make and colour from file MATCH with the details in the DVLA webpage for file File9.csv
+Finally in DoMethod in SeleniumCallWebPage 
+Driver close in SeleniumCallWebPage class 
